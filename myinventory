@@ -1,0 +1,9 @@
+[webservers]
+
+localhost ansible_user=ec2-user
+
+
+
+[External]
+
+172.31.78.69 ansible_user=ec2-user
